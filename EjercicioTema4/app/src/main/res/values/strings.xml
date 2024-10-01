@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EjercicioTema4</string>
+    <string name="login">Login</string>
+    <string name="accept">Accept</string>
+    <string name="user">User</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="remember_user">Remember User</string>
+    <string name="access">Access</string>
+    <string name="name2">Name</string>
+    <string name="email">Email</string>
+    <string name="zone_2">Zone 2</string>
+    <string name="zone_1">Zone 1</string>
+    <string name="todo">TODO</string>
+</resources>
